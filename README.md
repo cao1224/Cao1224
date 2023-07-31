@@ -19,7 +19,7 @@ Welcome to my page!
 
 <p> My name is Yuancheng. I am currently a third-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a> and <a href="https://visarts.ucsd.edu/undergrad/major-req/icam.html">Interdisciplinary Computing and the Arts Major(VA29)</a>.</p>
 
-👯 I am seeking to engage in collaborative research and development in the interdisciplinary domains of human-computer interaction, computational arts, and machine learning.
+🤔 I want to engage in collaborative research and development in the interdisciplinary domains of human-computer interaction, computational arts, and machine learning.
 
 😄 Pronouns: he/his/him
 
