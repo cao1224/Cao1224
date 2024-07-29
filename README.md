@@ -25,7 +25,7 @@ Welcome to my page!
 
 ⚡ Fun fact: Despite being born in the mild climate of Fujian, China, and growing up in the tropical paradise of Hawaii, I harbor a unique fondness for the brisk chill of winter weather.
 
-🔭 **My personal website** 👉 [IN PROGRESS]
+🔭 **My personal website** 👉 <a href="https://www.kaleo-cao.com/">kaleo-cao.com</a>
 
 📫 **Let's get connected on Linkedin** :point_right: https://www.linkedin.com/in/cyc2025/
 
