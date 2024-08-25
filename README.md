@@ -1,4 +1,4 @@
-### Hi there 👋 I am Yuancheng Cao
+### Hi there 👋 I am Yuancheng (Kaleo) Cao
 
 <!--
 **Cao1224/Cao1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
