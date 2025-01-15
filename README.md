@@ -17,9 +17,9 @@ Welcome to my page!
 
 ## About me
 
-<p> My name is Yuancheng, but you can call me Kaleo. I am currently a third-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a> and <a href="https://visarts.ucsd.edu/undergrad/major-req/icam.html">Interdisciplinary Computing and the Arts Major(VA29)</a>.</p>
+<p> My name is Yuancheng, but you can call me Kaleo. I am currently a fourth-year undergraduate student at <a href="https://ucsd.edu">University of California, San Diego</a>, double majoring in <a href="https://datascience.ucsd.edu/">Data Science(DS25)</a> and <a href="https://visarts.ucsd.edu/undergrad/major-req/icam.html">Interdisciplinary Computing and the Arts Major(VA29)</a>.</p>
 
-🤔 I want to engage in collaborative research and development in the interdisciplinary domains of human-computer interaction, computational arts, and machine learning.
+🤔 [Coming soon]
 
 😄 Pronouns: any pronouns
 
