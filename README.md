@@ -57,9 +57,11 @@ Welcome to my page!
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+<!--  
 ## Statistics
 
 ![Yuancheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cao1224)
  
 [![Yuancheng's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cao1224&hide=jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Cao1224)
+-->
 
